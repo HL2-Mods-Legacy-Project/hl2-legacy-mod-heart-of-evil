@@ -28,17 +28,10 @@
 			Game	|gameinfo_path|hl1_gcf
 
 			// HL:S stuff must come first
-			Game	"${{hl1_content_path}}"
 			Game	|all_source_engine_paths|hl1
 
-			Game	"${{source2007_ep2_patches_path}}"
-			Game	"${{source2007_ep2_content_path}}"
 			Game	|all_source_engine_paths|ep2
-			Game	"${{source2007_episodic_patches_path}}"
-			Game	"${{source2007_episodic_content_path}}"
 			Game	|all_source_engine_paths|episodic
-			Game	"${{source2007_hl2_patches_path}}"
-			Game	"${{source2007_hl2_content_path}}"
 			Game	|all_source_engine_paths|hl2
 		}
 	}
